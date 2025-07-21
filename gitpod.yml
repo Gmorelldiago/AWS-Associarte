@@ -7,4 +7,4 @@ tasks:
       - curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscilv2.zip"
       - unzip awscilv2.zip
       - sudo ./aws/install
-      - cd $THEIA_WORKSPACE_ROOT
+      - cd $GITPOD_REPOSITORY
