@@ -1,5 +1,5 @@
-# .gitpod.yml
-image: gitpod/workspace-full
+version: 'v1'
+image: "gitpod/workspace-full"
 
 tasks:
   - name: "Install AWS CLI"
