@@ -1,4 +1,4 @@
-version: 'v1'
+
 image: "gitpod/workspace-full"
 
 tasks:
